@@ -10,18 +10,29 @@ Interesting idea from the Atom.io [contributing docs](http://atom.io/docs/v0.62.
 
 List of Emojis for commits:
 
-#####* :lipstick: when improving the format/structure of the code
-#####* :racehorse: when improving performance
-#####* :non-potable_water: when plugging memory leaks
-#####* :memo: when writing docs
-#####* :bulb: New Idea
-#####* :bangbang: DEV Certified (No QA Needed)
-#####* :construction: Work in Progress
-#####* :skull: when removing code or feature
-#####* :flashlight: when adding logging
-#####* :speak_no_evil: or :mute: when reducing logging
-#####* :ambulance: when fixing bugs
-#####* :checkered_flag: when bumping version number
+:lipstick: when improving the format/structure of the code
+
+:racehorse: when improving performance
+
+:non-potable_water: when plugging memory leaks
+
+:memo: when writing docs
+
+:bulb: New Idea
+
+:bangbang: DEV Certified (No QA Needed)
+
+:construction: Work in Progress
+
+:skull: when removing code or feature
+
+:flashlight: when adding logging
+
+:speak_no_evil: or :mute: when reducing logging
+
+:ambulance: when fixing bugs
+
+:checkered_flag: when bumping version number
 
 Example:
 
